@@ -10,6 +10,13 @@ Moreover the operation of the website is fairly trivial if you keep that in mind
 	The landing page has a welcome screen and a youtube video on the front of it. The functionality of the website can be seen in the navbar. The navbar separates the functionality of the website into three categories: customer-protected content, staff-protected content and general use content.  The customer-protected content is behind the customer login screen. The customer content allows specific customers to log in and register for events as well as cancel from events using AJAX. The presentation of non-staff-protected content is given higher priority in terms of presentation than staff-protected content. Staff-protected content is behind the staff login and has three tiers: regular employees, docents, and managers. The managers get access to all of the available staff functionality and the test user is registered as a manager. Finally non-protected content includes just viewing the available art that the gallery has, seeing upcoming events and details, and going to the about page. 
 	All of these work in tandem to give the full functionality of an art-gallery’s website. Viewing art is available to anybody. Signing up for events is available to registered customers. Manipulating the internal data of the application is available to managers and other staff. To see the full schema of my database look through db_init.php as well as mainRDBMSinitRef.sql which was the reference I used to translate it into a php/mysql program. 
 	
+## Is this site hosted anywhere?
+No, I made it mainly just as a demo for school. I tested it on an aws instance during development.
+
+## Can I see how the site looks when running?
+Yes, I have provided screenshots from when it was up and running.
+
+# Screenshots
 
 
 # Login Info for all the fake accounts
