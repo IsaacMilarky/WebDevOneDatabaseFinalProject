@@ -1,0 +1,154 @@
+body {
+	/*Inspiration taken from */
+	background: #ffe url(/image/fade.png) top center repeat-x;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+iframe {
+	border: none;
+}
+
+.art_reference {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.art {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.art-child {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+img {
+	width: 322px;
+	height: 482px;
+	border: 1px solid black;
+	padding: 4px;
+	clear: right;
+}
+
+.parent {
+	clear: both;
+}
+
+.noClear {
+	clear: none;
+	float:left;
+	align-self: center;
+}
+
+.imageWide {
+	width: 322px;
+	display: inline;
+}
+
+.gen-text-info {
+	display: inline-block;
+	font-family: 'Gotham Book', Gotham-book, Arial, Helvetica, sans-serif;
+}
+
+.events {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.event_details {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.review {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.event {
+	border-bottom: 1px solid black;
+}
+
+.event-name {
+	border-right: 1px solid black;
+	padding: 5px;
+}
+
+.notice-text {
+	padding: 5px;
+}
+
+.event-time {
+	border-left: 1px solid black;
+	padding: 5px;
+}
+
+.navbar {
+	margin: auto;
+	display: inline-block;
+	padding: 10px;
+	margin-bottom: 50px;
+}
+
+.overLimit {
+	overflow: auto;
+	display: flex;
+}
+
+.centerCaptionSpotlight
+{
+	width: 322px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.references {
+	display: inline-block;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	height: 1.2em;
+	/*width: 16.5em;*/
+	padding: 5px;
+	background: wheat;
+}
+
+.references:hover {
+	height: auto;
+	width: auto;
+}
+
+.nav_link {
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+
+.nav_link:hover {
+	background-color: red;
+}
+
+#art-container {
+	padding: 5px;
+	display: flex;
+}
+
+#art-form-div 
+{
+	margin: auto;
+}
+
+#landingImage 
+{
+	width: auto;
+	height: auto;
+}
