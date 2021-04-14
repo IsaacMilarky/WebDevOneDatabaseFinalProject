@@ -17,7 +17,35 @@ No, I made it mainly just as a demo for school. I tested it on an aws instance d
 Yes, I have provided screenshots from when it was up and running.
 
 # Screenshots
+![Home Page](/screenshots/aboutPage.png?raw=true "Home Page")
 
+## Home Page
+![Home Page](/screenshots/homePage.png?raw=true "Home Page")
+## Main Art View
+![Art](/screenshots/art.png?raw=true "Main Art View")
+
+## Art Detailed View
+![Art Details](/screenshots/art-details.png?raw=true "Art Details")
+
+## Filter Results by Criteria
+![Filtered](/screenshots/art-filtered.png?raw=true "Filtered")
+
+## Customer Main Controls
+![Controls](/screenshots/customerControlPage.png?raw=true "Controls")
+
+## Event Listings
+![Event Listings](/screenshots/events.png?raw=true "Events")
+
+## Customer Login Controls
+![Login](/screenshots/customer-login.png?raw=true "Login")
+
+# Staff Controls
+
+## Event Creator
+![Event Creator](/screenshots/eventCreator.png?raw=true "Event Creator")
+
+## Art Critic Controls
+![Art Critics](/screenshots/artCriticControlsStaff.png?raw=true "Critics")
 
 # Login Info for all the fake accounts
 Test staff account 1:  
